@@ -14,7 +14,6 @@ This project aims to accurately predict whether a patient is diabetic or not bas
 * [Scikit-learn](https://scikit-learn.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
-* [Matplotlib](https://matplotlib.org/) (for data visualization)
 
 ---
 
